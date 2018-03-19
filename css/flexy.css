@@ -58,3 +58,15 @@
 
 .fl-among-center {
   align-content: center; }
+
+.fl-self-start {
+  align-self: flex-start; }
+
+.fl-self-end {
+  align-self: flex-end; }
+
+.fl-self-center {
+  align-self: center; }
+
+.fl-self-start {
+  align-self: baseline; }

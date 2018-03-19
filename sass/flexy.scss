@@ -92,4 +92,23 @@
         align-content:center;
       }
     }
+
+    &-self{
+      
+      &-start{
+        align-self: flex-start;
+      }
+
+      &-end{
+        align-self: flex-end;
+      }
+
+      &-center{
+        align-self: center;
+      }
+
+      &-start{
+        align-self: baseline;
+      }
+    }
   }
